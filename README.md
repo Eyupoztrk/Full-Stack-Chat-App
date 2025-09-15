@@ -23,22 +23,21 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilmiş tam özellikli 
 | **Authentication** | JWT (jsonwebtoken) |
 | **Email Service** | Resend |
 | **Styling** | Tailwind CSS + shadcn/ui |
-| **Development** | Node.js, ts-node |
 
 ## Sistem Gereksinimleri
 
 - Node.js 18 veya üzeri
 - MongoDB veritabanı erişimi
 - Resend API anahtarı
-- Modern web tarayıcısı
+- Web tarayıcısı
 
 ## Kurulum
 
 ### 1. Repository'yi İndirin
 
 ```bash
-git clone
-cd case-project
+git clone ile yükleyin
+cd case-project içine girin
 ```
 
 ### 2. Bağımlılıkları Yükleyin
