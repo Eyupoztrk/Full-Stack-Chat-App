@@ -47,7 +47,7 @@ cd case-project
 npm install
 ```
 
-### 3. Çevre Değişkenlerini Ayarlayın
+### 3. Env Değişkenlerini Ayarlayın
 
 `.env.example` dosyasını `.env` olarak kopyalayın ve değerlerini doldurun:
 
